@@ -35,7 +35,7 @@ Analyze the job application process by accessing [Job Application](./job_app.ipy
 
 8. Time Spent
 
-![Time Spent](./media/total_cycle_time_20260226_141129.png)
+![Time Spent](./media/time_distribution_20260226_143509.png)
 
 
 

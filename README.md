@@ -11,7 +11,7 @@ Analyze the job application process by accessing [Job Application](./job_app.ipy
 
 2. Application Status
 
-![Application Status](./media/apply_status_dist_20260226_141129.png)
+![Application Status](./media/apply_status_dist_20260226_144747.png)
 
 3. Job Titles
 
@@ -19,11 +19,11 @@ Analyze the job application process by accessing [Job Application](./job_app.ipy
 
 4. Cumulative Application
 
-![Cumulative Application](./media/apps_over_time_20260226_141129.png)
+![Cumulative Application](./media/apps_over_time_20260226_144805.png)
 
 5. Conversion Rates
 
-![Conversion Rates](./media/conversion_rates_20260226_141129.png)
+![Conversion Rates](./media/conversion_rates_20260226_144824.png)
 
 6. Cycle Time
 
@@ -31,11 +31,11 @@ Analyze the job application process by accessing [Job Application](./job_app.ipy
 
 7. Stage Duration
 
-![Stage Duration](./media/avg_days_between_stages_20260226_141130.png)
+![Stage Duration](./media/avg_days_between_stages_20260226_144937.png)
 
 8. Time Spent
 
-![Time Spent](./media/time_distribution_20260226_143509.png)
+![Time Spent](./media/time_distribution_20260226_144951.png)
 
 
 

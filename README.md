@@ -7,35 +7,35 @@ Analyze the job application process by accessing [Job Application](./job_app.ipy
 
 1. Job Application Funnel
 
-![Job Application Funnel](./media/application_funnel_20260226_141129.png)
+![Job Application Funnel](./media/application_funnel_20260227_173346.png)
 
 2. Application Status
 
-![Application Status](./media/apply_status_dist_20260226_144747.png)
+![Application Status](./media/apply_status_dist_20260227_173347.png)
 
 3. Job Titles
 
-![Job Titles](./media/top_titles_20260226_141129.png)
+![Job Titles](./media/top_titles_20260227_173347.png)
 
 4. Cumulative Application
 
-![Cumulative Application](./media/apps_over_time_20260226_144805.png)
+![Cumulative Application](./media/apps_over_time_20260227_173347.png)
 
 5. Conversion Rates
 
-![Conversion Rates](./media/conversion_rates_20260226_144824.png)
+![Conversion Rates](./media/conversion_rates_20260227_173347.png)
 
 6. Cycle Time
 
-![Cycle Time](./media/total_cycle_time_20260226_141129.png)
+![Cycle Time](./media/total_cycle_time_20260227_173347.png)
 
 7. Stage Duration
 
-![Stage Duration](./media/avg_days_between_stages_20260226_144937.png)
+![Stage Duration](./media/avg_days_between_stages_20260227_173620.png)
 
 8. Time Spent
 
-![Time Spent](./media/time_distribution_20260226_144951.png)
+![Time Spent](./media/time_distribution_20260227_173348.png)
 
 
 
